@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "mini360")(type "KiCad")(uri "C:/Users/Martin/Documents/GitHub/rele_wifi/librerias/mini360.lib")(options "")(descr ""))
+)

@@ -1,0 +1,5 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "librerias")(type "KiCad")(uri "C:/Users/Martin/Documents/GitHub/rele_wifi/librerias")(options "")(descr ""))
+  (lib (name "Library")(type "KiCad")(uri "C:/Users/Martin/Documents/GitHub/rele_wifi/librerias/Library.pretty")(options "")(descr ""))
+)
